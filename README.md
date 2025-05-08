@@ -28,10 +28,10 @@ Isi laporan mencakup:
 - Hasil pengolahan
 - Analisis akhir.
 
-- **Nama:** Alya Az-Zahra Maulana  
-- **NIM:** 202331300  
-- **Kelas:** D  
-- **Mata Kuliah:** Pengolahan Citra Digital
+**Nama:** Alya Az-Zahra Maulana  
+**NIM:** 202331300  
+**Kelas:** D  
+**Mata Kuliah:** Pengolahan Citra Digital
 
 ---
 
